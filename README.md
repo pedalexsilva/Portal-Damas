@@ -1,44 +1,116 @@
-🩺 Privacy Policy – Damas Portal
+Privacy Policy – Prime Human Performance
 
-Última atualização: 15 de outubro de 2025
-Last updated: October 15, 2025
+Last updated: [DATE]
 
-🇵🇹 Política de Privacidade
+1. Introduction
 
-O Damas Portal é uma aplicação que permite aos utilizadores conectar dispositivos e plataformas como WHOOP, Strava e Garmin para partilhar dados com o seu médico ou treinador.
-Apenas acedemos aos dados que o utilizador autoriza explicitamente através das APIs oficiais de cada serviço.
+This Privacy Policy explains how Prime Human Performance (“we”, “our”, “us”) collects, uses, and protects your personal data when you use our online services, including integrations with health and performance tracking platforms such as Whoop.
+By using our services, you agree to the terms of this Privacy Policy.
 
-Recolha e utilização de dados
+2. Data We Collect
+2.1 Account Information
 
-Recolhemos apenas dados de atividade, sono e recuperação disponibilizados pelas plataformas ligadas.
+When you register or sign in, we collect:
 
-Estes dados são utilizados exclusivamente para análise clínica e acompanhamento personalizado.
+Full name, email address, user role (athlete, doctor, or admin), and preferred language.
 
-Não partilhamos dados com terceiros sem o consentimento do utilizador.
+2.2 Connected Devices
 
-Armazenamento e segurança
-Os dados são armazenados de forma segura e encriptada, de acordo com as normas do RGPD.
-O utilizador pode revogar o acesso em qualquer momento através da própria plataforma (ex: WHOOP app) ou contactando-nos.
+If you choose to connect an external account such as Whoop:
 
-Contacto
-📩 support@damasportal.com
+We receive OAuth2 access and refresh tokens securely from Whoop.
 
-🇬🇧 Privacy Policy
+These tokens are encrypted and stored safely in our database.
 
-Damas Portal allows users to connect services such as WHOOP, Strava, and Garmin to share their data with a doctor or coach.
-We only access data that you explicitly authorize through each platform’s official API.
+2.3 Health and Performance Data
 
-Data collection and usage
+Depending on your permissions, we may access:
 
-We only collect activity, recovery, and sleep data provided by the connected services.
+Sleep data: duration, efficiency, respiratory rate, and sleep stages.
 
-This data is used exclusively for clinical analysis and personalized follow-up.
+Recovery data: HRV (rMSSD), resting heart rate, recovery score, SpO₂, skin temperature.
 
-We do not share any personal data with third parties without your consent.
+Workout data: strain, heart rate zones, calories, distance, elevation, and duration.
 
-Storage and security
-Your data is stored securely and encrypted in compliance with GDPR standards.
-You can revoke access at any time via the original service (e.g., WHOOP app) or by contacting us.
+All data is stored securely and linked to your account for visualization, monitoring, and performance optimization.
 
-Contact
-📩 support@damasportal.com
+3. How We Use Your Data
+
+We use your data to:
+
+Display and analyze your health and performance trends.
+
+Generate dashboards and summaries for athletes and healthcare professionals.
+
+Notify healthcare professionals when significant deviations are detected.
+
+Improve platform functionality and data accuracy.
+
+We never sell or share your data with third parties for marketing purposes.
+
+4. Data Sharing
+4.1 Doctors and Patients
+
+If you are an athlete linked to a doctor:
+
+Your doctor can access your health data only after you approve the connection.
+
+You can revoke access at any time from your profile settings.
+
+4.2 Service Providers
+
+We may use trusted third-party services for:
+
+Secure cloud data storage (Supabase or similar providers within the EU/US).
+
+Email notifications (SendGrid, Resend, or similar).
+
+All partners comply with GDPR and maintain their own privacy and security standards.
+
+5. Data Security
+
+All health data and tokens are encrypted in transit (TLS 1.2+) and at rest (AES-256).
+
+Access is controlled through Role-Based Access Control (RLS).
+
+Administrative access is strictly limited and logged.
+
+6. Data Retention
+
+Data is retained while your account remains active.
+
+You can request deletion of your account and associated data at any time by emailing privacy@primehumanperformance.com
+.
+
+Aggregated and anonymized data may be retained for analytics purposes.
+
+7. Your Rights (GDPR)
+
+Under the General Data Protection Regulation (GDPR), you have the right to:
+
+Access, correct, or delete your data.
+
+Withdraw consent for Whoop or other integrations.
+
+Request data portability (export in JSON or CSV format).
+
+File a complaint with your local data protection authority.
+
+8. Children’s Privacy
+
+Our services are intended for adults aged 18 and over.
+We do not knowingly collect or process data from minors.
+
+9. Changes to This Policy
+
+We may update this Privacy Policy periodically.
+All changes will be posted on this page with an updated “Last Updated” date.
+Continued use of our services after any modifications constitutes acceptance of the updated policy.
+
+10. Contact Us
+
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact:
+
+Prime Human Performance
+📍 Porto, Portugal
+📧 Email: privacy@primehumanperformance.com
